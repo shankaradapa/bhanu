@@ -1,2 +1,2 @@
 install java
-install git
+install c++
