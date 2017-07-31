@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 install git 
 install python
+=======
+install git
+install c++
+>>>>>>> 9da913b286bdf183d5b9058f51b7b13a08522606
